@@ -1,4 +1,4 @@
 # 本地验收文件，不影响单文件课件交付
 tests/
-verification.json
-verification-tablet.png
+verification*
+public-home.png
